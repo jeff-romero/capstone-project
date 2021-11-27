@@ -10,6 +10,8 @@ The goal of this project is to analyze and process a data set containing credit 
 
 After the data set is processed, it is passed to a Machine Learning algorithm which will train a model. This trained model can be used to predict cases of fraudulent credit card transactions, as long as the input is readable and sanitized.
 
+The main file **JeffreyRomeroCapstoneML-CCF.ipynb** has all of the content/research which relates to the project at hand.
+
 ---
 
 ## Input/Data Set
@@ -66,6 +68,8 @@ CNT_FAM_MEMBERS - How many family members does client have.
 
 # Dependencies
 The entire project is coded in the Python programming language. The minimum Python version required is at least 3.0. The recommended Python version is 3.7. Aside from Python, there are other dependencies such as:
+- Jupyter Lab
+    - https://jupyter.org/install
 - pip
     - https://pip.pypa.io/en/stable/installation/
 - numpy
