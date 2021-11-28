@@ -10,7 +10,8 @@ The goal of this project is to analyze and process a data set containing credit 
 
 After the data set is processed, it is passed to a Machine Learning algorithm which will train a model. This trained model can be used to predict cases of fraudulent credit card transactions, as long as the input is readable and sanitized.
 
-The HTML file **JeffreyRomeroCapstoneML-CCF.html** has all of the content/research which relates to the project at hand. If you want to run the code yourself, you can download the program JupyterLab and its dependencies listed further below. The run-time of this project will be 20-30 minutes due to the training time of the machine learning models.
+## How to view this project
+The HTML file **JeffreyRomeroCapstoneML-CCF.html** has all of the content/research which relates to the project at hand. If you want to run the code yourself, you can download the program JupyterLab and its dependencies listed further below, then download and run the file **JeffreyRomeroCapstoneML-CCF.ipynb** The run-time of this .ipynb roject file will be 20-30 minutes due to the training time of the machine learning models.
 
 ---
 
