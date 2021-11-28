@@ -10,7 +10,7 @@ The goal of this project is to analyze and process a data set containing credit 
 
 After the data set is processed, it is passed to a Machine Learning algorithm which will train a model. This trained model can be used to predict cases of fraudulent credit card transactions, as long as the input is readable and sanitized.
 
-The main file **JeffreyRomeroCapstoneML-CCF.ipynb** has all of the content/research which relates to the project at hand.
+The HTML file **JeffreyRomeroCapstoneML-CCF.html** has all of the content/research which relates to the project at hand. If you want to run the code yourself, you can download the program JupyterLab and its dependencies listed further below. The run-time of this project will be 20-30 minutes due to the training time of the machine learning models.
 
 ---
 
@@ -67,7 +67,7 @@ CNT_CHILDREN - Number of children the client has.
 CNT_FAM_MEMBERS - How many family members does client have.
 
 # Dependencies
-The entire project is coded in the Python programming language. The minimum Python version required is at least 3.0. The recommended Python version is 3.7. Aside from Python, there are other dependencies such as:
+The entire project is coded in the Python programming language. The minimum Python version required to run the project itself is at least 3.0. The recommended Python version is 3.7. Aside from Python, there are other dependencies such as:
 - Jupyter Lab
     - https://jupyter.org/install
 - pip
